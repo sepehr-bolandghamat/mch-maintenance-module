@@ -27,11 +27,6 @@ This system manages:
 
 ## 🚀 Project Status
 ✅ Planning
-⏳ Configuration
-🔒 Security Hardening
-📊 BI Design (Coming Soon)
-
-
 
 
 📁 Repository Structure
@@ -43,4 +38,5 @@ custom_modules/    → Any extra Odoo modules (if added)
 
 📈 Author
 Sepehr, IT Administrator & Network Designer
+
 🧠 Focused on infrastructure modernization, documentation
